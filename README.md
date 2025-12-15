@@ -1,8 +1,31 @@
-### Hi there 👋
-### This is George Marcus, a self-taught software engineer.
-### I am interested in Computer Science and Mathematics. 🌱 
-### I use C# (ASP.NET Core) , Javascript (Angular, Vue.js), and SQL (SQL Server) as the main tech stack for work.
-### I use Python, Java, and Rust for learning purposes
-<!--
-**george-marcus/george-marcus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hey, I’m George Marcus  
+**Self-taught Software Engineer** // Career-switcher with a passion for building things that matter.
+
+### 💡 About Me
+I build backend systems and web apps using **C# (ASP.NET Core)** and **JavaScript (Angular, Vue.js)**.  
+I’m also leveling up in **Python**, **Java**, and **Rust**, because why stick to comfort zones?
+
+I’m into clean code, solid algorithms, and systems that don’t fall apart when you breathe on them.
+
+### 🚀 What I’m Doing
+- 🔭 Working on scalable APIs and cloud-ready services
+- 🌱 Diving deeper into distributed systems and performance tuning
+- 👯 Open to collaboration on meaningful projects
+
+### 🛠️ Tech Stack
+**Backend:** C#, .NET Core  
+**Frontend:** Angular, Vue.js  
+**Databases:** SQL Server  
+**Scripting & Data:** Python  
+**Learning:** Rust, Java
+
+### 📫 Connect
+[LinkedIn](https://www.linkedin.com/in/dev-george-mikhail) • **Email:** george.marcus.ph@gmail.com
+
+---
+
+### 📊 GitHub Stats
+
+<!-- optional dynamic cards; update if you use github-readme-stats -->
+![George’s GitHub stats](https://github-readme-stats.vercel.app/api?username=george-marcus&show_icons=true&theme=radical)
 
