@@ -22,10 +22,3 @@ I’m into clean code, solid algorithms, and systems that don’t fall apart whe
 ### 📫 Connect
 [LinkedIn](https://www.linkedin.com/in/dev-george-mikhail) • **Email:** george.marcus.ph@gmail.com
 
----
-
-### 📊 GitHub Stats
-
-<!-- optional dynamic cards; update if you use github-readme-stats -->
-![George’s GitHub stats](https://github-readme-stats.vercel.app/api?username=george-marcus&show_icons=true&theme=radical)
-
